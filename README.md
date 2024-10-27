@@ -31,4 +31,10 @@
 ![](https://github.com/Merve4717/ubuntu/blob/main/resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20150327.png)
 
 
+![](https://github.com/Merve4717/ubuntu/blob/main/resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20150430.png)
+
+
+![]()
+
+
 ![]()
