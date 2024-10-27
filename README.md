@@ -45,4 +45,5 @@
 
 **4. Yeniden başlattığınızda, USB flash sürücünüzü cihazdan çıkarmanız istenecektir. Bunu yaptıktan sonra ENTER tuşuna basın .**
 
+![]()
 **VE İŞTE BU KADAR YENİ UBUNTU MASAÜSTÜNÜZ HAZIR!**
