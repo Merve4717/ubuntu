@@ -2,6 +2,8 @@
 **Burada herhangi bir işletim sisteminin yanına sanal makina olmadan Linux kurulumu yapacağız.İhtiyacımız olan şey en az 25GB ve üzeri bir flash bellek.**
 *1.Öncelikle ubuntu desktop'ı kurmak için bu ISO dosyasını yüklememiz gerek.*
 ![](https://github.com/Merve4717/ubuntu/blob/main/resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20142122.png)
-*1.1 ISO dosyamız indikten sonra rufus dosyasını indiriyoruz. Standart Windows 64bit olan dosyayı indiriyoruz.*
+*1.1 ISO dosyamız indikten sonra rufus dosyasını indiriyoruz. Mevcut işletim sisteminize karşılık gelen sürümü yükleyin.*
 ![ ](https://github.com/Merve4717/ubuntu/blob/main/resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20142358.png)
 **Rufus'u herhangi bir işletim sistemini diske yansıtmak için kullanırız.**
+*İndirme işlemleri tamamlandıktan sonra flash bellek'imizi bilgisayarımıza takıp seç kısmından indirdiğimiz ubuntu dosyamızı ve diskimizi seçiyoruz.*
+![](https://github.com/Merve4717/ubuntu/blob/main/resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20145648.png)
