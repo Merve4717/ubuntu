@@ -45,5 +45,6 @@
 
 **4. Yeniden başlattığınızda, USB flash sürücünüzü cihazdan çıkarmanız istenecektir. Bunu yaptıktan sonra ENTER tuşuna basın .**
 
-![]()
+
+![](https://github.com/Merve4717/ubuntu/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20215915.png)
 **VE İŞTE BU KADAR YENİ UBUNTU MASAÜSTÜNÜZ HAZIR!**
