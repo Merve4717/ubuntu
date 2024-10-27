@@ -34,10 +34,14 @@
 *3.5 Etkileşimli kurulum ve Otomatik Kurulum arasında seçim yapmanız istenecektir .*
 ![](https://github.com/Merve4717/ubuntu/blob/main/resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20150430.png)
 
-*3.6 Bu kısımda, cihaz desteğini ve performansını  ve ek medya biçimleri desteğini artırabilecek üçüncü taraf yazılımları yüklemeniz istenecektir. Bu kutuların her ikisini de işaretlemeniz önerilir.
+*3.6 Bu kısımda, cihaz desteğini ve performansını  ve ek medya biçimleri desteğini artırabilecek üçüncü taraf yazılımları yüklemeniz istenecektir. Bu kutuların her ikisini de işaretlemeniz öneririm.*
 
 
 ![](https://github.com/Merve4717/ubuntu/blob/main/resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20150457.png)
 
-
+*3.7 Kurulum tamamlandıktan sonra makinenizi yeniden başlatmanız istenecektir.Şimdi Yeniden Başlat'a tıklayın .*
 ![](https://github.com/Merve4717/ubuntu/blob/main/resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20150653.png)
+
+**4. Yeniden başlattığınızda, USB flash sürücünüzü cihazdan çıkarmanız istenecektir. Bunu yaptıktan sonra ENTER tuşuna basın .**
+
+**VE İŞTE BU KADAR YENİ UBUNTU MASAÜSTÜNÜZ HAZIR!**
