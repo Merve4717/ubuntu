@@ -12,3 +12,5 @@
 *İndirme işlemleri tamamlandıktan sonra flash bellek'imizi bilgisayarımıza takıp seç kısmından indirdiğimiz ubuntu dosyamızı ve diskimizi seçiyoruz.*
 ![](https://github.com/Merve4717/ubuntu/blob/main/resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20145648.png)
 
+*2.Bu kısımda bilgisayarı kapatıp flash bellek'i takıyoruz.Sonra bilgisayarı açıp boot menüsüne gitmek için F2 tuşuna birkaç kez basıyoruz.Ve ordan diskimizin olduğu bölümü seçiyoruz.* 
+![](https://github.com/Merve4717/ubuntu/blob/main/resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20145826.png)
